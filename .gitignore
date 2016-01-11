@@ -1,0 +1,10 @@
+*.annot
+*.cm?
+._*
+RemoteSystemsTempFiles
+executable
+*.log
+.settings
+run_tests
+*.cache
+test
